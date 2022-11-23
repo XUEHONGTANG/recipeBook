@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_Modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
